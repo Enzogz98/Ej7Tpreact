@@ -1,7 +1,8 @@
-Aplicación Web de Lista de Empleados
+## Aplicación Web de Lista de Empleados
+
 Esta es una aplicación web simple construida con React que muestra una lista de empleados utilizando tres componentes reutilizables: EmpleadoAvatar, EmpleadoRow y EmpleadoList. Los datos de los empleados se presentan a través de un arreglo proporcionado.
 
-Estructura del Proyecto
+1. Estructura del Proyecto
 La estructura del proyecto consta de varios archivos y carpetas:
 
 src: Contiene los archivos fuente de la aplicación.
@@ -12,7 +13,7 @@ App.js: Archivo principal que importa y utiliza los componentes.
 App.css: Archivo de estilos para personalizar la apariencia de la aplicación.
 
 
-Ejecución
+2. Ejecución
 Sigue estos pasos para ejecutar la aplicación:
 
 Clona el repositorio: git clone https://github.com/Enzogz98/Ej7Tpreact.git
@@ -21,7 +22,7 @@ Instala las dependencias: npm install
 Inicia la aplicación: npm start
 Visita http://localhost:3000 en tu navegador para ver la lista de empleados.
 
-¡Disfruta explorando y reutilizando componentes en tu aplicación de lista de empleados!
+¡Disfruta explorando y reutilizando componentes en la aplicación de lista de empleados!
 
 
 
